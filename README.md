@@ -2,7 +2,7 @@
 Solution for securely entering PIN on mobile/web
 
 ### Use Cases
-- Online PIN Delivery: Customer uses MB/IB for PIN selection/PIN change
+- Online PIN Delivery: Customer uses MB/IB to select/change PIN
 - PIN on Glass
 
 ### Transaction Flow
