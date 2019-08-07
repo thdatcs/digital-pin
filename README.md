@@ -1,8 +1,8 @@
 # digital-pin
-Solution for securely entering PIN on mobile/web
+Solution for securely entering PIN on mobile/web. This solution is design to protect with ***end to end encryption PIN*** => It will be in compliance with ***PCI-DSS***
 
 ### Use Cases
-- Online PIN Delivery: Customer uses MB/IB to select/change PIN. This solution will replace PIN delivery via PIN mailer
+- Online PIN Delivery: Customer uses MB/IB to select/change PIN => It will replace PIN delivery via PIN mailer
 - PIN on Glass
 
 ### Transaction Flow
