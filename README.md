@@ -1,8 +1,8 @@
-# online-pin
+# digital-pin
 Solution for securely entering PIN on mobile/web
 
 ### Use Cases
-- Online PIN Delivery: Customer uses mobile banking or internet banking for PIN selection/PIN change
+- Online PIN Delivery: Customer uses MB/IB for PIN selection/PIN change
 - PIN on Glass
 
 ### Transaction Flow
